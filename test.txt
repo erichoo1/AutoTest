@@ -1,3 +1,4 @@
 11111, this is a test file
 22222, added by branch1
 33333, modified by master
+444444, modified by branch1
